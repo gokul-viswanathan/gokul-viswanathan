@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  ![Coding GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh4ODdqaTJsMTJta285OGowaGlmdjFpa3ZlNnp3NXNreWJldGQweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif)
 </p>
 
-![Coding GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh4ODdqaTJsMTJta285OGowaGlmdjFpa3ZlNnp3NXNreWJldGQweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif)
 ## Hi there! 👋  
 I'm **Gokul Viswanathan**!  
 
