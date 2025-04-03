@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there! 👋  
+I'm **Your Name**!  
+
+- 🔭 I’m currently working on [Project Name](https://github.com/)
+- 🌱 I’m learning **React, Python, and DevOps**
+- 💬 Ask me about **JavaScript, Web Development, or Open Source**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/gokul-viswanathan) | [Twitter](https://twitter.com/yourhandle)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 <!--
 **gokul-viswanathan/gokul-viswanathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
