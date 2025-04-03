@@ -1,6 +1,5 @@
-<p align="center">
+
 ![Coding GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh4ODdqaTJsMTJta285OGowaGlmdjFpa3ZlNnp3NXNreWJldGQweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif)
-</p>
 
 ## Hi there! 👋  
 I'm **Gokul Viswanathan**!  
