@@ -6,9 +6,9 @@
 ## 🚀 About Me
 - 💡 Love to **develop new things** and constantly **learn**  
 - 🤖 Dabbling in **Machine Learning**  
-- 📚 Currently learning **TypeScript**  
+- 📚 Currently learning **TypeScript**
 
-<h2> 🚀 &nbsp;Tech Stack  </h2>
+## 💻 Tech Stack
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="Python" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"  />
@@ -23,10 +23,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul-viswanathan&show_icons=true&theme=radical)
 
 ## 🔥 Fun Facts  
-- 🎵 I code best when listening to [your favorite music genre]  
-- 🌍 I dream of building [something cool you aspire to]  
-- 🏆 My goal for this year: **[Your Personal Goal]**  
+- 🎵 I code best when listening to Lofi 
+- 🌍 I dream of building a fin-tech application
+- 🏆 My goal for this year: **get a job I love**  
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-viswanathan/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gokul_2509)
